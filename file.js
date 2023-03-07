@@ -1,2 +1,2 @@
-console.log('Hello world 2')
+console.log('Hi world')
 document.write(window.location.search);
